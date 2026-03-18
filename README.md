@@ -1,4 +1,4 @@
-# weeklyreport
+# Weekly Report
 
 The script generates weekly and overall reports from participant tracking data for all the projects within a research branch. It reads information from formatted Excel trackers that is on a shared drive, sums sessions by visit status and task type, as well as patient counts for each research assistances and constant numbers and generates a formatted HTML report from Jinja2 templates and matplotlib plots.
 
